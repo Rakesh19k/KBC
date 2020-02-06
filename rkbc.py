@@ -50,22 +50,3 @@
 # 		break
 # else:
 # 	print ("congratulation! you win this game.")
-
-
-# Navgurukul
-# rakesh
-# badal
-# rupa
-# dharmashala
-# maheshpur
-# katihar
-# delhi
-# punjab
-# rajshathan
-# banglore
-# karnataka
-# kindness
-# tiger
-# lion
-# study
-# learning
